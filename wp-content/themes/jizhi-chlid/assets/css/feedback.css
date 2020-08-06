@@ -1,0 +1,149 @@
+#backGround {
+	display:none;
+	position:absolute;
+	top:0%;
+	left:0%;
+	width:100%;
+	height:100%;
+	background-color:black;
+	z-index:1;
+	-moz-opacity:0.8;
+	opacity:.80;
+	filter:alpha(opacity=88);
+}
+
+.table-feedback tbody tr {
+	background-color: #f9f9f9;
+}
+
+.table-feedback tbody tr th {
+	vertical-align: inherit !important;
+}
+
+.table-feedback tbody tr td {
+	vertical-align: inherit !important;
+}
+
+.feedback .mwz {
+	display: block;
+	width: 100%;
+    background: #fff;
+    border-bottom: #e5e5e5 3px solid;
+    height: 45px;
+    line-height: 45px;
+}
+
+.feedback  .mwz li.cur {
+    display: inline-block;
+    color: #333;
+    border-bottom: #6899ec 3px solid;
+    margin-bottom: -3px;
+    height: 45px;
+    color: #265892;
+}
+.feedback  .mwz .prompt.r {
+    float: right;
+}
+.feedback  .mwz li.cur a {
+    color: #265892;
+}
+
+.mso.buy {
+	background: #fffaf4;
+}
+.div_search {
+	display: inline-block;
+}
+.div_search select {
+	width: 115px;
+}
+.feedback li{
+    list-style-type:none;
+}
+
+.search-btn {
+	    display: inline-block;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 18px;
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: .9;
+    background: linear-gradient(-125deg,#0295f9 0%, #3c67fe 100%);
+    font-weight: 400;
+    max-width: 100px;
+    width: 200px;
+    font-size: 12px;
+}
+.mso {
+    background: #fff;
+    padding: 18px 0;
+    display: block;
+    text-align: center;
+    border-bottom: 0;
+}
+
+.mso ul {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0;
+    zoom: 1;
+}
+
+.feedback_start{
+    background: #3cde0d;
+    padding: 2px 16px;
+    font-weight: 400;
+    border-radius: 50px;
+    color: #ffffff;
+/*     cursor: pointer; */
+}
+
+.feedback_reply{
+    background: #4ab6fb;
+    padding: 2px 16px;
+    font-weight: 400;
+    border-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.feedback_reply_status{
+    background: #0057ff;
+    padding: 2px 16px;
+    border-radius: 50px;
+    color: #ffffff;
+    font-weight: 400;
+    /*cursor: pointer;*/
+}
+
+.feedback_end{
+    background: #ff2432;
+    padding: 2px 16px;
+    color: #ffffff;
+    font-weight: 400;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.feedback_end_status{
+    background: #000;
+    padding: 2px 16px;
+    border-radius: 50px;
+    color: #ffffff;
+    font-weight: 400;
+    /*cursor: pointer;*/
+}
+
+.feedback_delete{
+    background: #ff2432;
+    padding: 2px 16px;
+    color: #ffffff;
+    font-weight: 400;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
