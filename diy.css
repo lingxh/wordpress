@@ -1697,7 +1697,7 @@ color: #ffffff;
     font-size: 20px;
     color: #333;
     padding: 0 0 0 10px;
-    background: url(/wp-content/themes/ripro-chlid/assets/images/zhankr_icon_arts.png) left center no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/lingxh/1/assets/images/zhankr_icon_arts.png) left center no-repeat;
 }
 .zhankr-sycms{
         float: right;
