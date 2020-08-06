@@ -366,19 +366,19 @@
 	width:35px;
 	height:35px;
 	margin-top:8px;
-	background:url(/wp-content/themes/jizhi-chlid/images/zhuti.png) 0 0 no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhuti.png) 0 0 no-repeat;
 }
 .deanchart ul li.deanchart2 i {
-	background:url(/wp-content/themes/jizhi-chlid/images/icon1.png) 0 0 no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/icon1.png) 0 0 no-repeat;
 }
 .deanchart ul li.deanchart3 i {
-	background:url(/wp-content/themes/jizhi-chlid/images/icon2.png) 0 0 no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/icon2.png) 0 0 no-repeat;
 }
 .deanchart ul li.deanchart4 i {
-	background:url(/wp-content/themes/jizhi-chlid/images/icon3.png) 0 0 no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/icon3.png) 0 0 no-repeat;
 }
 .deanchart ul li.deanchart5 i {
-	background:url(/wp-content/themes/jizhi-chlid/images/icon5.png) 0 0 no-repeat;
+	background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/icon5.png) 0 0 no-repeat;
 }
 .deanchartdiv {
 	float:left;
@@ -1931,8 +1931,8 @@ a.button.transparent.go_pay_vip_box {
   background-color:#181616 !important
 }
 #waveHorizontal1 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_001.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_001.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_001.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_001.svg);
     animation-delay: -2s;
     animation-duration: 12s;
 }
@@ -1966,14 +1966,14 @@ a.button.transparent.go_pay_vip_box {
 @keyframes move{0%{transform:translate(-175px,0px) scale(1,1)}50%{transform:translate(-87px,0px) scale(1,0.5)}100%{transform:translate(0px,0px) scale(1,1)}}
 
 #waveHorizontal2 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_002.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_002.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_002.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_002.svg);
     animation-delay: -2s;
     animation-duration: 5s;
 }
 #waveHorizontal3 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_003.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_003.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_003.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_003.svg);
     animation-delay: -1s;
     animation-duration: 3s;
 }
@@ -2608,8 +2608,8 @@ i.fa.fa-user {
   background-color:#181616 !important
 }
 #dabolangl1 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_001.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_001.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_001.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_001.svg);
     animation-delay: -2s;
     animation-duration: 12s;
 }
@@ -2643,14 +2643,14 @@ i.fa.fa-user {
 @keyframes move{0%{transform:translate(-175px,0px) scale(1,1)}50%{transform:translate(-87px,0px) scale(1,0.5)}100%{transform:translate(0px,0px) scale(1,1)}}
 
 #dabolangl2 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_002.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_002.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_002.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_002.svg);
     animation-delay: -2s;
     animation-duration: 5s;
 }
 #dabolangl3 {
-    -webkit-mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_003.svg);
-    mask: url(/wp-content/themes/jizhi-chlid/images/zhankr_003.svg);
+    -webkit-mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_003.svg);
+    mask: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_003.svg);
     animation-delay: -1s;
     animation-duration: 3s;
 }
@@ -2819,7 +2819,7 @@ i.fa.fa-user {
 /*资源类型判断图标*/
 .vvip0,.vvip10,.vvip30,.vvip70,.vvip75,.vvip80,.vwip0,.vwip10,.vwip30,.vwip70,.vwip75,.vwip80,.vvip302,.vvip702,.vvip752,.vvip802,.vwip302,.vwip702,.vwip752,.vwip802 {
     display: inline-block;
-    background-image: url(/wp-content/themes/jizhi-chlid/images/tuyiyi_vip4_1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/tuyiyi_vip4_1.png);
     background-size: auto 40px;
     vertical-align: middle;
     height: 40px;
@@ -3040,7 +3040,7 @@ span.navtenyearcon{font-size:12px}
 .header_search .search_form .search_input input{width:320px;border:none;color:#999;font:14px tahoma,PingFangSC,microsoft yahei ui,microsoft yahei,sans-serif;font-size-adjust:none;overflow:hidden;position:absolute;top:10px}
 .header_search .search_btn{width:80px;height:38px;line-height:38px;display:block;float:left;border-radius:0 3px 3px 0;border:none;cursor:pointer;background:linear-gradient(125deg,#0056ff 0,#0056ff 100%)}
 .header_search .search_btn:hover{opacity:.8}
-.header_search .search_btn .icon_search{display:block;width:80px;height:40px;margin:2px auto 0;background:url(/wp-content/themes/jizhi-chlid/images/index_icons.png) no-repeat -68px -82px}
+.header_search .search_btn .icon_search{display:block;width:80px;height:40px;margin:2px auto 0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/index_icons.png) no-repeat -68px -82px}
 .selected_type{position:relative;cursor:pointer;width:75px;height:38px;line-height:38px;display:inline-block;padding-left:9px;color:#666}
 .selected_type:after{border:5px solid transparent;border-top:6px solid #d2d2d2;width:0;height:0;position:absolute;top:18px;right:6px;content:' ';transition:all .3s;-webkit-transition:all .3s}
 .search_filter_selected dl.search_type{display:block}
@@ -3061,8 +3061,8 @@ span.navtenyearcon{font-size:12px}
 .heshan>a{box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;color:#adb7be;-webkit-box-align:center;-ms-flex-align:center;align-items:center;transition:color .2s}
 .shanlian.lianzi{color:#cea22c;line-height:33px;text-align:center}
 .shanlian.lianzi .ic_gif{position:absolute;top:0;left:50%;width:96px;margin:0 0 0 -50px}
-.shanlian.lianzi .ic_gif::before{content:"";position:absolute;top:0;left:0;background:url(/wp-content/themes/jizhi-chlid/images/tab_newani.png) no-repeat -60px 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 2s linear both infinite;-webkit-animation:super_ngiftl 2s linear both infinite}
-.shanlian.lianzi .ic_gif::after{content:"";position:absolute;top:0;right:0;background:url(/wp-content/themes/jizhi-chlid/images/tab_newani.png) no-repeat -100px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 2s linear both infinite;-webkit-animation:super_ngiftr 2s linear both infinite}
+.shanlian.lianzi .ic_gif::before{content:"";position:absolute;top:0;left:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/tab_newani.png) no-repeat -60px 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 2s linear both infinite;-webkit-animation:super_ngiftl 2s linear both infinite}
+.shanlian.lianzi .ic_gif::after{content:"";position:absolute;top:0;right:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/tab_newani.png) no-repeat -100px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 2s linear both infinite;-webkit-animation:super_ngiftr 2s linear both infinite}
 .shanlian.lianzi .txt{position:relative;font-size:14px;color:#f5b344;margin-right:2px}
 *,:after,:before{box-sizing:inherit}
 .shanlian.lianzi{color:#cea22c;line-height:33px;text-align:center}
@@ -3079,10 +3079,10 @@ span.navtenyearcon{font-size:12px}
 .shanlian.lianzi{color:#cea22c;line-height:33px;text-align:center}
 .shanlian.lianzi .ic_gif{position:absolute;top:0;left:50%;width:96px;margin:0 0 0 -50px}
 .shanlian.lianzi .ic_gif1{position:absolute;top:0;left:50%;width:88px;margin:0 0 0 -44px}
-.shanlian.lianzi .ic_gif::before{content:"";position:absolute;top:0;left:0;background:url(/wp-content/themes/jizhi-chlid/images/zhankr_net_vip.png) no-repeat -60px 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 2s linear both infinite;-webkit-animation:super_ngiftl 2s linear both infinite}
-.shanlian.lianzi .ic_gif1::before{content:"";position:absolute;top:4px;left:0;background:url(/wp-content/themes/jizhi-chlid/images/zhankr_net_vip.png) no-repeat 0 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 1s linear both infinite;-webkit-animation:super_giftl 1s linear both infinite}
-.shanlian.lianzi .ic_gif::after{content:"";position:absolute;top:0;right:0;background:url(/wp-content/themes/jizhi-chlid/images/zhankr_net_vip.png) no-repeat -100px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 2s linear both infinite;-webkit-animation:super_ngiftr 2s linear both infinite}
-.shanlian.lianzi .ic_gif1::after{content:"";position:absolute;top:4px;right:0;background:url(/wp-content/themes/jizhi-chlid/images/zhankr_net_vip.png) no-repeat -30px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 1s linear both infinite;-webkit-animation:super_giftr 1s linear both infinite}
+.shanlian.lianzi .ic_gif::before{content:"";position:absolute;top:0;left:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_net_vip.png) no-repeat -60px 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 2s linear both infinite;-webkit-animation:super_ngiftl 2s linear both infinite}
+.shanlian.lianzi .ic_gif1::before{content:"";position:absolute;top:4px;left:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_net_vip.png) no-repeat 0 0;width:13px;height:25px;transform-origin:right center;-webkit-transform-origin:right center;animation:super_giftl 1s linear both infinite;-webkit-animation:super_giftl 1s linear both infinite}
+.shanlian.lianzi .ic_gif::after{content:"";position:absolute;top:0;right:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_net_vip.png) no-repeat -100px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 2s linear both infinite;-webkit-animation:super_ngiftr 2s linear both infinite}
+.shanlian.lianzi .ic_gif1::after{content:"";position:absolute;top:4px;right:0;background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr_net_vip.png) no-repeat -30px 0;width:13px;height:25px;transform-origin:left center;-webkit-transform-origin:left center;animation:super_giftr 1s linear both infinite;-webkit-animation:super_giftr 1s linear both infinite}
 .shanlian.lianzi .txt{position:relative;font-size:15px;color:#f5b344}
 .shanlian.lianzi .txt1{position:relative;font-size:14px;color:#f5b344}
 .shanlian.lianzi .ic_mask{position:absolute;top:10px;left:0;overflow:hidden;width:100%;height:14px;overflow:hidden;background:0 0}
@@ -3136,7 +3136,7 @@ span.navtenyearcon{font-size:12px}
 	color: #fff
 }
 .vip-banner {
-	background: url(/wp-content/themes/jizhi-chlid/images/comvip-banner.png) no-repeat center;
+	background: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/comvip-banner.png) no-repeat center;
 	position: relative;
 	width: 100%;
 	height: 246px;
@@ -3617,11 +3617,11 @@ p.vip-home-price i {
     box-shadow: 3px 4px 10px #17161617;
 }
 .header-center .jinbi i {
-    background: url(/wp-content/themes/jizhi-chlid/images/jinbi.png) no-repeat center;
+    background: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/jinbi.png) no-repeat center;
     background-size: cover;
 }
 .header-center .dou i {
-    background: url(/wp-content/themes/jizhi-chlid/images/dou.png) no-repeat center;
+    background: url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/dou.png) no-repeat center;
     background-size: cover;
 }
 .header-center .pay-credit {
@@ -4215,7 +4215,7 @@ address, caption, cite, code, dfn, em, i, strong, th, var {
 #help dt{cursor:pointer; color:#353535; font-size:18px;margin-bottom:20px; }
 #help dd{ display:none;color:#767676; font-size:14px; padding:10px; border-radius:5px; background:#f0f0f0; margin-bottom:20px;margin-bottom:20px; line-height:25px; letter-spacing:1px;}
 #help dt,#help dd{ margin-left:40px; position:relative;}
-#help dt i,#help dd i{background:url(/wp-content/themes/jizhi-chlid/images/zhankr-faq.png) no-repeat; width:30px; height:30px; display:block; position:absolute; left:-40px; top:0px;}
+#help dt i,#help dd i{background:url(https://cdn.jsdelivr.net/gh/lingxh/wordpress/1/images/zhankr-faq.png) no-repeat; width:30px; height:30px; display:block; position:absolute; left:-40px; top:0px;}
 #help dd i{background-position: 0 -35px;}
 /*常见问题*/
 
