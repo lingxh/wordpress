@@ -3717,196 +3717,168 @@ p.vip-home-price i {
 
 /*友情链接*/
 .col-xs-12.friend-links {
-    padding: 14px;
-    }
-    .codesign-fl {
-    display: flex;
+padding: 14px;
+}
+.codesign-fl {
+display: flex;
+list-style: none;
+padding: 0;
+margin: 0;
+font-size: 13px;
+}
+.codesign-fl li{
+margin-left: 5px;
+}
+.codesign-fl a{
+color: #cccccc;
+}
+.codesign-fl a:hover{
+color: #058ff9;
+}
+.codesign-dw{
+border-top: 1px solid #eeeeee;
+}
+.footer-widget{
+padding-bottom:0;
+}
+.yousc-dark .codesign-dw{
+border: 1px dashed #44444487;
+background-color: #2d2d2d;
+text-shadow: #000 0px 1px 0px;
+}
+/*友情链接*/
+.col-xs-12.friend-links {
+padding: 14px;
+}
+.codesign-fl {
+display: flex;
+list-style: none;
+padding: 0;
+margin: 0;
+font-size: 13px;
+}
+.codesign-fl li{
+margin-left: 5px;
+}
+.codesign-fl a{
+color: #cccccc;
+}
+.codesign-fl a:hover{
+color: #058ff9;
+}
+.codesign-dw{
+border-top: 1px solid #eeeeee;
+}
+.footer-widget{
+padding-bottom:0;
+}
+.yousc-dark .codesign-dw{
+border: 1px dashed #44444487;
+background-color: #2d2d2d;
+text-shadow: #000 0px 1px 0px;
+}
+/*友情链接*/
+/*新友情链接*/
+.link {
+	height: 60px;
+    background: #f7f8fa;
+    border: 1px dashed #ccc;
+}
+.link ul{
     list-style: none;
-    padding: 0;
-    margin: 0;
-    font-size: 13px;
-    }
-    .codesign-fl li{
-    margin-left: 5px;
-    }
-    .codesign-fl a{
-    color: #cccccc;
-    }
-    .codesign-fl a:hover{
-    color: #058ff9;
-    }
-    .codesign-dw{
-    border-top: 1px solid #eeeeee;
-    }
-    .footer-widget{
-    padding-bottom:0;
-    }
-    .yousc-dark .codesign-dw{
-    border: 1px dashed #44444487;
-    background-color: #2d2d2d;
-    text-shadow: #000 0px 1px 0px;
-    }
-    /*友情链接*/
-    /*新友情链接*/
-    .link {
-        height: 60px;
-        background: #f7f8fa;
-        border: 1px solid #eeeeee;
-        border-radius: 5px;
-    } 
-    .link ul{
-        list-style: none;
-        list-style-type: none;
-        padding-left: 0px;
-        margin: 5px 0;
-    }
-    .link ul>span {
-        float: left;
-        display: block;
-        font-size: 14px;
-        background: linear-gradient(-125deg,#0295f9 0%, #2f49fd 100%);
-        height: 60px;
-        padding: 0 30px;
-        padding-top: 0;
-        color: #FFF;
-        padding-top: 6px;
-        margin: -1px -1px -1px -1px;
-        text-align: center;
-        border-radius: 5px 0 0 5px;
-    }
-    .link ul>span>a {
-        background: linear-gradient(-180deg, #ffffff 2%, #ffffff 98%);
-        padding: 1px 10px;
-        border-radius: 20px;
-        color: #0a79ed;
-    }
-    .link li {
-        float: left;
-    }
-    .link ul li a {
-        display: inline-block;
-        padding: 0 10px;
-        float: left;
-        margin-bottom: 10px;
-        font-size: 14px;
-        color: #828282;
-        padding-top: 8px;
-        font-weight: 400;
-    }
-    /*新友情链接*/
-    
-    /*7.1友情链接*/
-    .footer-links {
-        font-size: 12px;
-        margin: 15px auto 0;
-        text-align: center;
-        width: 1300px;
-    }
-    .footer-links span{
-        display: inline-block;
-        float: left;
-    }
-    .footer-links h6 {
-        font-size: 16px;
-        color: #8a8a8a;
-        margin: 0px 11px;
-        display: inline-block;
-        float: left;
-    }
-    .i-f-pl-hold {
-        width: 600px;
-        height: 11px;
-        border-bottom: 1px solid #eeeeee;
-    }
-    .footer-links ul {
-        display: inline;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        font-size: 16px;
-        color: #8a8a8a;
-        margin: 0px 11px;
-        display: inline-block;
-        float: left;
-        margin: 16px 0;
-        padding-left: 0px;
-    }
-    .footer-links li {
-        font-size: 13px;
-        font-weight: 400;
-        display: inline;
-        white-space: nowrap;
-        margin: 0 10px;
-        margin-left: 0;
-        color: #797979;
-        line-height: 32px;
-    }
-    .footer-links a {
-        color: #999;
-    }
-    .zhankr_ylsq{
-        border: 1px solid #ccc;
-        border-radius: 50px;
-        padding: 1px 8px 1px 8px;
-        font-size: 10px !important;
-    }
-    /*7.1友情链接*/
-    /*自助申请友情链接*/
-    @media screen and (max-width: 750px) { 
-    .container .row .card  {width: 100%} 
-    } 
-    .container .row .pricing-deco .deco-layer {
-        -webkit-transition: -webkit-transform 0.5s;
-        transition: transform 0.5s;
-    }
-    
-    .container .row .pricing-deco:hover .deco-layer--1 {
-        -webkit-transform: translate3d(15px,0,0);
-        transform: translate3d(15px,0,0);
-    }
-    
-    .container .row .pricing-deco:hover .deco-layer--2 {
-        -webkit-transform: translate3d(-15px,0,0);
-        transform: translate3d(-15px,0,0);
-    }
-    
-    .srcdict-yqlj{
-        margin-left: -10px;
-        margin-right: -10px;
-        display: flex;
-        background:#fff;
-        border: 1px solid rgba(0, 0, 0, 0.05);
-        border-radius: 6px;
-        box-shadow: 0 4px 12px 0 rgba(52, 73, 94, 0.1);
-    }
-    
-    .clearfix{
-        color: #fff;
-        background: linear-gradient(-125deg,#0295f9 0%, #2f49fd 100%);
-        margin-top: 1rem;
-        padding: 1rem 1.5rem;
-        border: 1px solid transparent;
-        border-radius: .375rem;
-        max-width: 100%;
-    }
-    
-    .mt20{
-        margin-top: 20px;
-        margin-bottom: 15px;
-    }
-    
-    .card-header
-    {
-        padding: 1.25rem 1.5rem;
-        font-size: 1.0625rem;
-        background-color: #fff;
-    }
-    .card-header:first-child
-    {
-        border-radius: calc(.375rem - 1px) calc(.375rem - 1px) 0 0;
-    }
-    /*自助申请友情链接*/
-    
+    list-style-type: none;
+	padding-left: 0px;
+	margin: 0px 0;
+}
+.link ul>span {
+    float: left;
+    display: block;
+    font-size: 14px;
+    background: linear-gradient(-125deg,#0295f9 0%, #2f49fd 100%);
+    height: 60px;
+    padding: 0 30px;
+    padding-top: 0;
+    color: #FFF;
+    padding-top: 10px;
+	margin: -1px -1px -1px -1px;
+    text-align: center;
+}
+.link ul>span>a {
+    background: linear-gradient(-180deg, #ffffff 2%, #ffffff 98%);
+    padding: 1px 10px;
+    border-radius: 20px;
+    color: #0a79ed;
+}
+.link li {
+    float: left;
+}
+.link ul li a {
+    display: inline-block;
+    padding: 0 8px;
+    float: left;
+    margin-bottom: -6px;
+    font-size: 14px;
+    color: #828282;
+    padding-top: 8px;
+	font-weight: 400;
+}
+/*新友情链接*/
+/*自助申请友情链接*/
+@media screen and (max-width: 750px) {
+.container .row .card  {width: 100%}
+}
+.container .row .pricing-deco .deco-layer {
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+}
+
+.container .row .pricing-deco:hover .deco-layer--1 {
+	-webkit-transform: translate3d(15px,0,0);
+	transform: translate3d(15px,0,0);
+}
+
+.container .row .pricing-deco:hover .deco-layer--2 {
+	-webkit-transform: translate3d(-15px,0,0);
+	transform: translate3d(-15px,0,0);
+}
+
+.srcdict-yqlj{
+	margin-left: -10px;
+	margin-right: -10px;
+	display: flex;
+	background:#fff;
+	border: 1px solid rgba(0, 0, 0, 0.05);
+	border-radius: 6px;
+	box-shadow: 0 4px 12px 0 rgba(52, 73, 94, 0.1);
+}
+
+.clearfixyl{
+	color: #fff;
+	background-color: #fc7c5f;
+	margin-top: 1rem;
+	padding: 1rem 1.5rem;
+	border: 1px solid transparent;
+	border-radius: .375rem;
+	max-width: 100%;
+}
+
+.mt20{
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+.card-header
+{
+    padding: 1.25rem 1.5rem;
+    font-size: 1.0625rem;
+    background-color: #fff;
+}
+.card-header:first-child
+{
+    border-radius: calc(.375rem - 1px) calc(.375rem - 1px) 0 0;
+}
+/*自助申请友情链接*/
+
 /*导航栏目统计*/
 .zhankr-num {
     position: absolute;
